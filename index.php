@@ -1,2 +1,5 @@
+
 phpcredits
 echo
+print
+
